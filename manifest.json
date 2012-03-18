@@ -12,6 +12,8 @@
     }
   ],
   "permissions": [
-    "http://api.jitskills.se/"
+    "http://api.jitskills.se/",
+    "http://localhost:8080/",
+    "http://deploy.jitskills.se/"
   ]
 }
